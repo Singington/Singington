@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm currently a CSI student at Champlain College in Vermont. This is my first time using GitHub but so far so good.
+I'm currently a CSI student at Champlain College in Vermont. This is my first time using GitHub but so far so good.
+- 🔭 I’m currently working on a project that helps me develop chord progressions for musical inspiration.
+- 🌱 I’m currently learning a lot of website development to help my project perform and look sweet.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to sing and play the piano which is why I'm trying to merge music and code.
